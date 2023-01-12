@@ -7,7 +7,7 @@ export default function Document() {
         <link rel="icon" href="https://emojicdn.elk.sh/🔮" />
         <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
       </Head>
-      <body>
+      <body className="p-5">
         <Main />
         <NextScript />
       </body>
