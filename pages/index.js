@@ -18,7 +18,7 @@ const twitter = {
 
 const github = {
   name: "Github",
-  url: "",
+  url: "https://github.com/jordicapellad3s",
   color: "bg-[#254f1a]",
 };
 
